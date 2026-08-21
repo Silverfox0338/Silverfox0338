@@ -193,13 +193,6 @@
       76%, 88% { opacity: 1; }
       92%, 100% { opacity: 0; }
     }
-
-    @media (prefers-reduced-motion: reduce) {
-      .step {
-        animation: none;
-        opacity: 1;
-      }
-    }
   </style>
 
   <!-- Toes face right; alternating rows produce the walking motion. -->
