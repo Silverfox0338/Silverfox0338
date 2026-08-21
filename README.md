@@ -43,19 +43,20 @@ Usually found:
 <p><img src="assets/fuzzy-bubbles/u0063.png" alt="c" height="28"><img src="assets/fuzzy-bubbles/u0075.png" alt="u" height="28"><img src="assets/fuzzy-bubbles/u0072.png" alt="r" height="28"><img src="assets/fuzzy-bubbles/u0072.png" alt="r" height="28"><img src="assets/fuzzy-bubbles/u0065.png" alt="e" height="28"><img src="assets/fuzzy-bubbles/u006e.png" alt="n" height="28"><img src="assets/fuzzy-bubbles/u0074.png" alt="t" height="28"><img src="assets/fuzzy-bubbles/u005f.png" alt="_" height="28"><img src="assets/fuzzy-bubbles/u0064.png" alt="d" height="28"><img src="assets/fuzzy-bubbles/u0065.png" alt="e" height="28"><img src="assets/fuzzy-bubbles/u006e.png" alt="n" height="28"></p>
 
 **Discord Themes**<br>
-Discord CSS theme repo.
+Making Discord look better because apparently I can't leave UI alone.
 
 **DragonAltar**<br>
-Minecraft event/plugin systems.
+Minecraft event/plugin systems with significantly more machinery than was probably necessary.
 
 **Roblox Experiments**<br>
-UI, combat, automation, game systems, and other cursed creations.
+Combat, UI, animation, automation, and various experiments that began with "this should be easy."
 
 <br>
 
 <p><img src="assets/fuzzy-bubbles/u0073.png" alt="s" height="28"><img src="assets/fuzzy-bubbles/u0074.png" alt="t" height="28"><img src="assets/fuzzy-bubbles/u0061.png" alt="a" height="28"><img src="assets/fuzzy-bubbles/u0063.png" alt="c" height="28"><img src="assets/fuzzy-bubbles/u006b.png" alt="k" height="28"></p>
 
 `Luau` · `Java` · `Python` · `TypeScript` · `JavaScript`
+*whatever gets the stupid idea working*
 
 <br>
 
