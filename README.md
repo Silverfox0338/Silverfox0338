@@ -1,40 +1,53 @@
-<h1 align="center">SILVERFOX0338</h1>
+# ![S](assets/fuzzy-bubbles/title/u0053.png)![I](assets/fuzzy-bubbles/title/u0049.png)![L](assets/fuzzy-bubbles/title/u004c.png)![V](assets/fuzzy-bubbles/title/u0056.png)![E](assets/fuzzy-bubbles/title/u0045.png)![R](assets/fuzzy-bubbles/title/u0052.png)![F](assets/fuzzy-bubbles/title/u0046.png)![O](assets/fuzzy-bubbles/title/u004f.png)![X](assets/fuzzy-bubbles/title/u0058.png)
 
 <p align="center">
   <img src="./assets/wolf-paw-trail.svg" width="100%" alt="Animated wolf paw trail walking from left to right">
 </p>
 
-<p align="center">
-  <code>wolf / fox</code>&nbsp;&nbsp;
-  <code>developer</code>&nbsp;&nbsp;
-  <code>system builder</code>
-</p>
+> wolf/fox hybrid • developer • professional button-pusher
 
-<p align="center">
-  Building game systems, developer tools, and unusual experiments that turn into real projects.
-</p>
+## ❯ ![w](assets/fuzzy-bubbles/u0077.png)![h](assets/fuzzy-bubbles/u0068.png)![o](assets/fuzzy-bubbles/u006f.png)![a](assets/fuzzy-bubbles/u0061.png)![m](assets/fuzzy-bubbles/u006d.png)![i](assets/fuzzy-bubbles/u0069.png)
 
----
+Hey, I'm Silver.
 
-### `whoami`
+I build Roblox systems, Minecraft plugins, browser tools, and whatever\
+random project gets stuck in my head long enough to become real.
 
-I build for Minecraft, Roblox, the browser, and whichever problem refuses to leave me alone. I like persistent systems, clean interfaces, strong tooling, and enough moving parts to make the debugging interesting.
+Usually found:
 
-My work currently spans Java, Python, JavaScript, TypeScript, CSS, and the occasional language or format a project demands.
+- breaking Luau
+- arguing with UI
+- making unnecessarily complicated systems
+- staring at logs wondering what I did
+- adding wolves to things that did not need wolves
 
-### `toolkit`
+## ❯ ![f](assets/fuzzy-bubbles/u0066.png)![u](assets/fuzzy-bubbles/u0075.png)![r](assets/fuzzy-bubbles/u0072.png)![s](assets/fuzzy-bubbles/u0073.png)![o](assets/fuzzy-bubbles/u006f.png)![n](assets/fuzzy-bubbles/u006e.png)![a](assets/fuzzy-bubbles/u0061.png)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-17131f?style=for-the-badge&logo=openjdk&logoColor=c4b5fd" alt="Java">
-  <img src="https://img.shields.io/badge/Python-17131f?style=for-the-badge&logo=python&logoColor=c4b5fd" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-17131f?style=for-the-badge&logo=javascript&logoColor=c4b5fd" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-17131f?style=for-the-badge&logo=typescript&logoColor=c4b5fd" alt="TypeScript">
-  <img src="https://img.shields.io/badge/CSS-17131f?style=for-the-badge&logo=css&logoColor=c4b5fd" alt="CSS">
-  <img src="https://img.shields.io/badge/SQLite-17131f?style=for-the-badge&logo=sqlite&logoColor=c4b5fd" alt="SQLite">
-</p>
+**Species:** Wolf / Fox hybrid\
+**Palette:** Black • Deep Purple\
+**Eyes:** Violet\
+**Build:** Lean / agile\
+**Energy:** questionable
 
----
+> if the project has a wolf logo, no it doesn't
 
-<p align="center">
-  <sub>There is always another system to build.</sub>
-</p>
+## ❯ ![c](assets/fuzzy-bubbles/u0063.png)![u](assets/fuzzy-bubbles/u0075.png)![r](assets/fuzzy-bubbles/u0072.png)![r](assets/fuzzy-bubbles/u0072.png)![e](assets/fuzzy-bubbles/u0065.png)![n](assets/fuzzy-bubbles/u006e.png)![t](assets/fuzzy-bubbles/u0074.png)![_](assets/fuzzy-bubbles/u005f.png)![d](assets/fuzzy-bubbles/u0064.png)![e](assets/fuzzy-bubbles/u0065.png)![n](assets/fuzzy-bubbles/u006e.png)
+
+**Discord Themes**\
+Discord CSS theme repo.
+
+**DragonAltar**\
+Minecraft event/plugin systems.
+
+**Roblox Experiments**\
+UI, combat, automation, game systems, and other cursed creations.
+
+## ❯ ![s](assets/fuzzy-bubbles/u0073.png)![t](assets/fuzzy-bubbles/u0074.png)![a](assets/fuzzy-bubbles/u0061.png)![c](assets/fuzzy-bubbles/u0063.png)![k](assets/fuzzy-bubbles/u006b.png)
+
+`Luau` `Java` `Python` `TypeScript` `JavaScript`
+
+## ❯ ![s](assets/fuzzy-bubbles/u0073.png)![t](assets/fuzzy-bubbles/u0074.png)![a](assets/fuzzy-bubbles/u0061.png)![t](assets/fuzzy-bubbles/u0074.png)![u](assets/fuzzy-bubbles/u0075.png)![s](assets/fuzzy-bubbles/u0073.png)
+
+🐾 probably coding\
+🌙 definitely awake too late\
+💜 currently making something that will somehow involve purple
