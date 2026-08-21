@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
   <title id="title">Walking wolf paw trail</title>
-  <desc id="desc">Wolf paw prints face right, appear alternately from left to right, and fade in a continuous loop.</desc>
+  <desc id="desc">Wolf paw prints face right and plant one at a time from left to right in a continuous walking loop.</desc>
   <defs>
     <linearGradient id="silverViolet" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#d8d5e2"/>
@@ -20,30 +20,42 @@
     </g>
   </defs>
   <style>
-    .step { opacity: 0; animation: footprint 7.2s ease-in-out infinite; }
-    .s1 { animation-delay: -5.04s; }
-    .s2 { animation-delay: -4.32s; }
-    .s3 { animation-delay: -3.60s; }
-    .s4 { animation-delay: -2.88s; }
-    .s5 { animation-delay: -2.16s; }
-    .s6 { animation-delay: -1.44s; }
-    .s7 { animation-delay: -.72s; }
-    .s8 { animation-delay: 0s; }
-    @keyframes footprint {
-      0%, 8% { opacity: 0; }
-      14%, 45% { opacity: .92; }
-      70%, 100% { opacity: 0; }
+    .step {
+      opacity: 0;
+      animation: footprint 6.4s linear infinite;
+      animation-delay: var(--delay);
     }
-    @media (prefers-reduced-motion: reduce) {
-      .step { animation: none; opacity: .68; }
+    .mark {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: plant 6.4s ease-out infinite;
+      animation-delay: var(--delay);
+    }
+    .s1 { --delay: 0s; }
+    .s2 { --delay: .8s; }
+    .s3 { --delay: 1.6s; }
+    .s4 { --delay: 2.4s; }
+    .s5 { --delay: 3.2s; }
+    .s6 { --delay: 4s; }
+    .s7 { --delay: 4.8s; }
+    .s8 { --delay: 5.6s; }
+    @keyframes footprint {
+      0%, 2% { opacity: 0; }
+      5% { opacity: .35; }
+      8%, 11% { opacity: .96; }
+      14%, 100% { opacity: 0; }
+    }
+    @keyframes plant {
+      0%, 3% { transform: scale(.8); }
+      8%, 100% { transform: scale(1); }
     }
   </style>
-  <g class="step s1" transform="translate(7 5) rotate(84 66 72) scale(.15)"><use href="#wolf-paw"/></g>
-  <g class="step s2" transform="translate(150 82) rotate(96 66 72) scale(.15)"><use href="#wolf-paw"/></g>
-  <g class="step s3" transform="translate(297 5) rotate(85 66 72) scale(.15)"><use href="#wolf-paw"/></g>
-  <g class="step s4" transform="translate(440 82) rotate(95 66 72) scale(.15)"><use href="#wolf-paw"/></g>
-  <g class="step s5" transform="translate(587 5) rotate(86 66 72) scale(.15)"><use href="#wolf-paw"/></g>
-  <g class="step s6" transform="translate(730 82) rotate(94 66 72) scale(.15)"><use href="#wolf-paw"/></g>
-  <g class="step s7" transform="translate(877 5) rotate(87 66 72) scale(.15)"><use href="#wolf-paw"/></g>
-  <g class="step s8" transform="translate(1020 82) rotate(93 66 72) scale(.15)"><use href="#wolf-paw"/></g>
+  <g class="step s1" transform="translate(7 5) rotate(84 66 72) scale(.15)"><g class="mark"><use href="#wolf-paw"/></g></g>
+  <g class="step s2" transform="translate(150 82) rotate(96 66 72) scale(.15)"><g class="mark"><use href="#wolf-paw"/></g></g>
+  <g class="step s3" transform="translate(297 5) rotate(85 66 72) scale(.15)"><g class="mark"><use href="#wolf-paw"/></g></g>
+  <g class="step s4" transform="translate(440 82) rotate(95 66 72) scale(.15)"><g class="mark"><use href="#wolf-paw"/></g></g>
+  <g class="step s5" transform="translate(587 5) rotate(86 66 72) scale(.15)"><g class="mark"><use href="#wolf-paw"/></g></g>
+  <g class="step s6" transform="translate(730 82) rotate(94 66 72) scale(.15)"><g class="mark"><use href="#wolf-paw"/></g></g>
+  <g class="step s7" transform="translate(877 5) rotate(87 66 72) scale(.15)"><g class="mark"><use href="#wolf-paw"/></g></g>
+  <g class="step s8" transform="translate(1020 82) rotate(93 66 72) scale(.15)"><g class="mark"><use href="#wolf-paw"/></g></g>
 </svg>
